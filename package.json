@@ -1,7 +1,7 @@
 {
   "name": "@nestjs-steroids/environment",
-  "version": "1.0.1",
-  "description": "Dead simple NestJS Environment module",
+  "version": "1.0.2",
+  "description": "Extremely simple environment module (config loader) for your NestJS application",
   "author": "Vlad Krokhin",
   "keywords": [
     "nest",
