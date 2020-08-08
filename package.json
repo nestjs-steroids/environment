@@ -1,8 +1,16 @@
 {
   "name": "@nestjs-steroids/environment",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dead simple NestJS Environment module",
   "author": "Vlad Krokhin",
+  "keywords": [
+    "nest",
+    "nestjs",
+    "class-validator",
+    "class-transformer",
+    "config",
+    "environment"
+  ],
   "private": false,
   "license": "MIT",
   "main": "dist/index.js",
